@@ -1,5 +1,5 @@
 # CFEditor
-This editor is now used in http://classfoo.com/app/editor. It's totally based on wysihtml5 and beautified by BootStrap, FontAwesome and JQuery.All honors belong to their original authors.Enjoy it!
+This editor is now used in http://classfoo.com/. It's totally based on wysihtml5 and beautified by BootStrap, FontAwesome and JQuery.All honors belong to their original authors.Enjoy it!
 
 Online example: http://classfoo.com/app/editor
 
